@@ -9,4 +9,4 @@
 * GoogleChrome
   
 ※設定の詳細は以下に記載  
-https://plaza.rakuten.co.jp/jivememo/diary/202003210000/
+[Windows環境にRuby＋Seleniumをインストール](https://plaza.rakuten.co.jp/jivememo/diary/202003210000/){:target="_blank"}
